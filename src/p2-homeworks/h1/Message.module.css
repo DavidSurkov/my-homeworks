@@ -1,0 +1,63 @@
+.container {
+    margin: 20px 2px;
+    padding: 15px;
+    background: #1c2733;
+    height: 100px;
+    width: 350px;
+    border-radius: 20px;
+
+    position: relative;
+    left: 20px;
+
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    transition: all 0.3s ease-out;
+}
+
+.avatar {
+    background: orange;
+    color: white;
+    height: 70px;
+    width: 70px;
+    font-size: 70px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.text {
+    height: 70px;
+    font-family: 'Lato', sans-serif;
+}
+
+.name {
+    position: absolute;
+    bottom: 69px;
+    left: 109px;
+
+    font-size: 20px;
+    color: #f0f0f0;
+}
+
+.message {
+    position: absolute;
+    bottom: 38px;
+    left: 109px;
+    color: #9f9f9f;
+}
+
+.time {
+    color: #2be2d3;
+    font-size: 22px;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+
+.container:hover {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
+    transition: all 0.3s ease-out;
+
+}
