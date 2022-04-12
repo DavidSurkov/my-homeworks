@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-homeworks/static/css/main.acab737e.css",
+    "main.js": "/my-homeworks/static/js/main.e50750c3.js",
+    "static/media/Gull_portrait_ca_usa.jpg": "/my-homeworks/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
+    "index.html": "/my-homeworks/index.html",
+    "main.acab737e.css.map": "/my-homeworks/static/css/main.acab737e.css.map",
+    "main.e50750c3.js.map": "/my-homeworks/static/js/main.e50750c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acab737e.css",
+    "static/js/main.e50750c3.js"
+  ]
+}
