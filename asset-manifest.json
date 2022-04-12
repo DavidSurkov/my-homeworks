@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-homeworks/static/css/main.acab737e.css",
-    "main.js": "/my-homeworks/static/js/main.e50750c3.js",
-    "static/media/Gull_portrait_ca_usa.jpg": "/my-homeworks/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
-    "index.html": "/my-homeworks/index.html",
-    "main.acab737e.css.map": "/my-homeworks/static/css/main.acab737e.css.map",
-    "main.e50750c3.js.map": "/my-homeworks/static/js/main.e50750c3.js.map"
+    "main.css": "/static/css/main.acab737e.css",
+    "main.js": "/static/js/main.3559408d.js",
+    "static/media/Gull_portrait_ca_usa.jpg": "/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
+    "index.html": "/index.html",
+    "main.acab737e.css.map": "/static/css/main.acab737e.css.map",
+    "main.3559408d.js.map": "/static/js/main.3559408d.js.map"
   },
   "entrypoints": [
     "static/css/main.acab737e.css",
-    "static/js/main.e50750c3.js"
+    "static/js/main.3559408d.js"
   ]
 }
