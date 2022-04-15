@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.acab737e.css",
-    "main.js": "/static/js/main.3559408d.js",
-    "static/media/Gull_portrait_ca_usa.jpg": "/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
-    "index.html": "/index.html",
-    "main.acab737e.css.map": "/static/css/main.acab737e.css.map",
-    "main.3559408d.js.map": "/static/js/main.3559408d.js.map"
+    "main.css": "/my-homeworks/static/css/main.585aaf22.css",
+    "main.js": "/my-homeworks/static/js/main.389f1eb5.js",
+    "static/media/Gull_portrait_ca_usa.jpg": "/my-homeworks/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
+    "static/media/img_2.png": "/my-homeworks/static/media/img_2.d21d1590275b7076de88.png",
+    "static/media/img.png": "/my-homeworks/static/media/img.db10e1a5cebc3c000eeb.png",
+    "index.html": "/my-homeworks/index.html",
+    "main.585aaf22.css.map": "/my-homeworks/static/css/main.585aaf22.css.map",
+    "main.389f1eb5.js.map": "/my-homeworks/static/js/main.389f1eb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.acab737e.css",
-    "static/js/main.3559408d.js"
+    "static/css/main.585aaf22.css",
+    "static/js/main.389f1eb5.js"
   ]
 }
