@@ -1,0 +1,25 @@
+.linkStyle {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    border: 1px dashed black;
+    padding: 5px;
+    border-radius: 10px;
+    color: #d1fff4;
+    background-color: #1c2733;
+
+}
+
+.headerStyle {
+    transition-duration: 1s;
+    margin: 0 0 0 -300px;
+}
+
+.img {
+    width: 25px;
+    height: 25px;
+}
+.headerStyle:hover{
+    margin: 0;
+}

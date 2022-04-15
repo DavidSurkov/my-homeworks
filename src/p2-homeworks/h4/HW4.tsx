@@ -33,21 +33,24 @@ function HW4() {
         />
 
         <SuperInputText
-          className={s.blue} // проверьте, рабоет ли смешивание классов
+          className={s.inputStyle} // проверьте, рабоет ли смешивание классов
         />
 
         {/*----------------------------------------------------*/}
 
-        <SuperButton>default</SuperButton>
+        <SuperButton className={s.button}>default</SuperButton>
 
         <SuperButton
+          className={s.button}
           red // пропсу с булевым значением не обязательно указывать true
           onClick={showAlert}
         >
           delete {/*// название кнопки попадёт в children*/}
         </SuperButton>
 
-        <SuperButton disabled>disabled</SuperButton>
+        <SuperButton className={s.button} disabled>
+          disabled
+        </SuperButton>
 
         {/*----------------------------------------------------*/}
 

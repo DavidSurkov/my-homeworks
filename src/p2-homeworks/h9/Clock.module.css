@@ -1,0 +1,16 @@
+.block {
+    text-align: center;
+    background-color: #1c2733;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.time {
+    font-family: courier, monospace;
+    font-size: 20px;
+    color: #d1fff4;
+    height: 40px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}

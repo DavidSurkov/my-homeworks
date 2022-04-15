@@ -1,13 +1,24 @@
-.blue {
-    border-bottom: 5px solid blue;
+.inputStyle{
+    margin: 5px;
+    box-shadow: 1px 1px #1c2733;
+    transition-duration: 1s;
+
+}
+.inputStyle:hover{
+    box-shadow: 3px 3px 3px #1c2733;
 }
 
 .column {
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
-.testSpanError {
-    color: blue;
+.button{
+    font-size: 20px;
+    margin: 5px 0 0;
+    transition-duration: 1s;
+}
+.button:hover{
+    border-radius: 10px;
 }

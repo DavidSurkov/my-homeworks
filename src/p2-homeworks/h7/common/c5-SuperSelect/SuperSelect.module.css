@@ -1,0 +1,20 @@
+.select {
+    width: 70px;
+    height: 30px;
+    margin: 10px;
+    font-size: 20px;
+    appearance: none;
+    padding-right: 30px;
+    padding-left: 10px;
+    background-image: url("../../../../images/img_2.png");
+    background-repeat: no-repeat;
+    background-position: right ;
+    background-size: contain;
+    cursor: pointer;
+    background-color: #d1fff4;
+
+}
+
+.option {
+
+}

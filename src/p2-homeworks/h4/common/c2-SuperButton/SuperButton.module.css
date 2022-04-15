@@ -1,7 +1,11 @@
 .default {
+background-color: #d1fff4;
+    font-family: courier, monospace;
+    text-transform: uppercase;
 
 }
 
 .red {
-    background: red;
+    color: white;
+    background: rgb(252, 143, 143);
 }
