@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-homeworks/static/css/main.585aaf22.css",
-    "main.js": "/my-homeworks/static/js/main.61673428.js",
+    "main.css": "/my-homeworks/static/css/main.c0212702.css",
+    "main.js": "/my-homeworks/static/js/main.266f064c.js",
     "static/media/Gull_portrait_ca_usa.jpg": "/my-homeworks/static/media/Gull_portrait_ca_usa.94e4b604a7d5d97446ff.jpg",
     "static/media/img_2.png": "/my-homeworks/static/media/img_2.d21d1590275b7076de88.png",
     "static/media/img.png": "/my-homeworks/static/media/img.db10e1a5cebc3c000eeb.png",
     "index.html": "/my-homeworks/index.html",
-    "main.585aaf22.css.map": "/my-homeworks/static/css/main.585aaf22.css.map",
-    "main.61673428.js.map": "/my-homeworks/static/js/main.61673428.js.map"
+    "main.c0212702.css.map": "/my-homeworks/static/css/main.c0212702.css.map",
+    "main.266f064c.js.map": "/my-homeworks/static/js/main.266f064c.js.map"
   },
   "entrypoints": [
-    "static/css/main.585aaf22.css",
-    "static/js/main.61673428.js"
+    "static/css/main.c0212702.css",
+    "static/js/main.266f064c.js"
   ]
 }
