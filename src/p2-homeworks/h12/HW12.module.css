@@ -11,7 +11,7 @@
 }
 
 .red-text {
-    color: aqua;
+    color: black;
 }
 
 .some {
@@ -20,4 +20,7 @@
 
 .some-text {
     color: darkslateblue;
+}
+.white{
+    background-color: white;
 }
