@@ -35,33 +35,37 @@ function HW8() {
   const showAll = () => setPeople(initialPeople);
 
   return (
-    <div className={s.block}>
+    <>
       <hr />
-      homeworks 8{/*should work (должно работать)*/}
-      <div className={s.creatures}>{finalPeople}</div>
-      <div className={s.buttonsBlock}>
-        <SuperButton className={s.button} onClick={showAll}>
-          show default
-        </SuperButton>
-        <SuperButton className={s.button} onClick={showAdults}>
-          show 18+
-        </SuperButton>
-      </div>
-      <div>
+      <h2>homework 8</h2>
+      <div className={s.block}>
+        {/*should work (должно работать)*/}
+        <div className={s.creatures}>{finalPeople}</div>
         <div className={s.buttonsBlock}>
-          <SuperButton className={s.button} onClick={sortUp}>
-            sort up
+          <SuperButton className={s.button} onClick={showAll}>
+            show default
           </SuperButton>
-          <SuperButton className={s.button} onClick={sortDown}>
-            sort down
+          <SuperButton className={s.button} onClick={showAdults}>
+            show 18+
           </SuperButton>
         </div>
+        <div>
+          <div className={s.buttonsBlock}>
+            <SuperButton className={s.button} onClick={sortUp}>
+              sort up
+            </SuperButton>
+            <SuperButton className={s.button} onClick={sortDown}>
+              sort down
+            </SuperButton>
+          </div>
+        </div>
       </div>
+
       <hr />
       {/*для личного творчества, могу проверить*/}
       {/*<AlternativePeople/>*/}
       <hr />
-    </div>
+    </>
   );
 }
 

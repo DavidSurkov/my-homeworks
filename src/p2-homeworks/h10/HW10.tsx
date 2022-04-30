@@ -21,7 +21,7 @@ function HW10() {
   return (
     <div>
       <hr />
-      homeworks 10
+      <h2>homework 10</h2>
       {/*should work (должно работать)*/}
       {isLoading ? (
         <div className={s.ldsRoller}>

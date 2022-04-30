@@ -18,7 +18,7 @@ function HW12() {
   return (
     <div className={s[theme.colour]}>
       <hr />
-      <span className={s[theme.colour + '-text']}>homeworks 12</span>
+      <h2 className={s[theme.colour + '-text']}>homeworks 12</h2>
       <SuperRadio options={themes} value={theme.colour} name={'radio2'} onChangeOption={onChangeCallback} />
       {/*should work (должно работать)*/}
       {/*SuperSelect or SuperRadio*/}

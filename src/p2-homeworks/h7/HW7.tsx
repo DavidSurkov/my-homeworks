@@ -10,7 +10,8 @@ function HW7() {
   return (
     <div>
       <hr />
-      homeworks 7{/*should work (должно работать)*/}
+      <h2>homework 7</h2>
+      {/*should work (должно работать)*/}
       <div>
         <SuperSelect options={arr} value={value} onChangeOption={onChangeOption} />
       </div>

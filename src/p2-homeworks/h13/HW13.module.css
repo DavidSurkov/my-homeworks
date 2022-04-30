@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #1c2733;
+    border-radius: 10px;
+    color: #d1fff4;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    min-height: 100px;
+    font-size: 18px;
+}
+.mainContainer{
+    display: inline-block;
+}
